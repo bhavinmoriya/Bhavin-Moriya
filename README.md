@@ -34,7 +34,7 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 2. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
 3. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
    - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
-
+4. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
 
 
