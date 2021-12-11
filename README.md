@@ -15,7 +15,7 @@ I am Bhavin. I am pretty excited learning DataScience. I shall be sharing some n
 ## Project 2 : Recurrent Neural Networks and Time Series
 
 1. [Fake News classifier using LSTM](https://www.kaggle.com/bhavinmoriya/fake-news-classifier-using-lstm)
-2. [Conv1d, GRU, LSTM to forecast Time Series] (https://www.kaggle.com/bhavinmoriya/neural-nets-for-prediction-of-the-google-stock)
+2. [Conv1d, GRU, LSTM to forecast Time Series](https://www.kaggle.com/bhavinmoriya/neural-nets-for-prediction-of-the-google-stock)
 3. [FBProphet to predict Air Passengers](https://www.kaggle.com/bhavinmoriya/playing-with-fb-prophet-great-prediction)
 4. [FBProphet to forecase WIKIPedia pageviews and MSFT Stocks](https://www.kaggle.com/bhavinmoriya/facebook-prophet-wikipedia-msft-forecast)
 5. [AirPassenger forecast using AutoARIMA](https://www.kaggle.com/bhavinmoriya/airpassenger-autoarima-almost-accurate-preds)
