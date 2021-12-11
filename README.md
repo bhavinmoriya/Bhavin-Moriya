@@ -1,6 +1,6 @@
 # My Portfolio
 
-I am Bhavin. I am pretty excited learning DataScience. I shall be sharing some nice projects here.
+I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excited about learning Data Science. For example, “I believe that data tells us more than just numbers, it helps us understand our users and their desires and a lot more. I shall be sharing some of my projects here.
 
 # Project 1 : Introduction to KERAS
 
@@ -27,6 +27,14 @@ I am Bhavin. I am pretty excited learning DataScience. I shall be sharing some n
 ## Project 3 : Natural Language Processing
 
 1. [IMDb Review - Sentiment Analysis with about 86% accuracy](https://www.kaggle.com/bhavinmoriya/imdb-review-sentiment-analysis-using-conv1d)
+
+## Project 4 : Classification and Regression
+
+1. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
+2. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
+3. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
+   - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
+
 
 
 
