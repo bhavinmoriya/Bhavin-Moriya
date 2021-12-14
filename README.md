@@ -19,7 +19,8 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 3. [FBProphet to predict Air Passengers](https://www.kaggle.com/bhavinmoriya/playing-with-fb-prophet-great-prediction)
 4. [FBProphet to forecase WIKIPedia pageviews and MSFT Stocks](https://www.kaggle.com/bhavinmoriya/facebook-prophet-wikipedia-msft-forecast)
 5. [AirPassenger forecast using AutoARIMA](https://www.kaggle.com/bhavinmoriya/airpassenger-autoarima-almost-accurate-preds)
-6. [Introduction to AutoARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima#Stationarity)
+6. [Tuning FBProphet to predict TESLA stock](https://www.kaggle.com/bhavinmoriya/prophet-for-tesla-stock-prediction?scriptVersionId=82301626)
+7. [Introduction to AutoARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima#Stationarity)
    - ACF, PACF plots 
    - Trend order
    - Seasonal order
