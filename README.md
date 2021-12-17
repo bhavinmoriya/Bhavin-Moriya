@@ -2,12 +2,17 @@
 
 I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excited about learning Data Science. For example, “I believe that data tells us more than just numbers, it helps us understand our users and their desires and a lot more. I shall be sharing some of my projects here.
 
-# Project 1 : Introduction to KERAS
+# Project 0 : Basics
+1. [Introduction to PySpark](https://www.kaggle.com/bhavinmoriya/introduction-to-pyspark)
+
+# Project 1 : Introduction to KERAS and Computer Vision
 
 1. [Basics of Keras](https://www.kaggle.com/bhavinmoriya/playing-with-keras)
 2. [Dogs and Cats classification](https://www.kaggle.com/bhavinmoriya/dogs-and-cats-classification-by-cnn-and-vgg16)
 3. [Data Augmentation](https://www.kaggle.com/bhavinmoriya/dataaugmentation-with-keras)
-4. Transfer learning
+4. [MNIST Digit Recognizer using Keras Functional API](https://www.kaggle.com/bhavinmoriya/mnist-digit-recognizer-using-functional-api)
+5. [German Traffic Sign Recognition using Tensorflow](https://www.kaggle.com/bhavinmoriya/intro-to-tensorflow-german-traffic-sign-recog)
+6. Transfer learning
    - [MobileNet - Predict images outside of training so well](https://www.kaggle.com/bhavinmoriya/mobilenet-small-but-real-good-too)
    - [MobileNet - A small model could do wonders](https://www.kaggle.com/bhavinmoriya/mobilenet-finetune-to-custom-datasets-99-acc)
    - [VGG 16 to improve DogsVsCats classification](https://www.kaggle.com/bhavinmoriya/dogs-and-cats-classification-by-cnn-and-vgg16)
