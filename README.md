@@ -1,6 +1,6 @@
 # My Portfolio
 
-I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excited about learning Data Science. For example, “I believe that data tells us more than just numbers, it helps us understand our users and their desires and a lot more. I shall be sharing some of my projects here.
+I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excited about learning Data Science. I believe that data tells us more than just numbers, it helps us understand our users and their desires and a lot more. I shall be sharing some of my projects here.
 
 # Project 0 : Basics
 1. [Introduction to PySpark](https://www.kaggle.com/bhavinmoriya/introduction-to-pyspark)
