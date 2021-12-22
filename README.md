@@ -36,11 +36,12 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 4 : Classification and Regression
 
-1. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
-2. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
-3. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
+1. [Regression using Neural Nets and RF, LR etc.](https://www.kaggle.com/bhavinmoriya/regression-using-neural-nets-and-rf-lr-etc)
+2. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
+3. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
+4. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
    - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
-4. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
+5. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
 
 
