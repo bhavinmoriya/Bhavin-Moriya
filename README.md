@@ -46,7 +46,8 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 5. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
 
-
+&NewLine;
+&NewLine;
 
 **<div align="center">My resume could be found at [RESUME.](https://www.dropbox.com/s/zwk0wmoqc4qzw53/CV.pdf?dl=0)**
 
