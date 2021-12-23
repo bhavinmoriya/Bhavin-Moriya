@@ -48,7 +48,7 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 
 
-**My resume could be found at [RESUME.](https://www.dropbox.com/s/zwk0wmoqc4qzw53/CV.pdf?dl=0)**
+**<div align="center">My resume could be found at [RESUME.](https://www.dropbox.com/s/zwk0wmoqc4qzw53/CV.pdf?dl=0)**
 
 
 
