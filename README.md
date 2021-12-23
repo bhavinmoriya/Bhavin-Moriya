@@ -45,6 +45,11 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
    - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
 5. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
+## Project 5 : Web Scraping
+
+1. [Web Scraping to scrape CryptoCurrency Info](https://www.kaggle.com/bhavinmoriya/web-scraping-to-scrape-cryptocurrency-info?scriptVersionId=83136084)
+
+<br />
 <br />
 <br />
 
