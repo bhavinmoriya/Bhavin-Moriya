@@ -53,6 +53,10 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 1. [Web Scraping to scrape CryptoCurrency Info](https://www.kaggle.com/bhavinmoriya/web-scraping-to-scrape-cryptocurrency-info?scriptVersionId=83136084)
 
+## Project 6 : Statistics
+
+1. [A/B Testing](https://www.kaggle.com/bhavinmoriya/ab-testing-again)
+
 <br />
 <br />
 <br />
