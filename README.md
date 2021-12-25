@@ -56,6 +56,8 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 ## Project 6 : Statistics
 
 1. [A/B Testing](https://www.kaggle.com/bhavinmoriya/ab-testing-again)
+2. [Law of large numbers](https://www.kaggle.com/bhavinmoriya/law-of-large-numbers)
+3. [Central Limit Theorem](https://www.kaggle.com/bhavinmoriya/central-limit-theorem)
 
 <br />
 <br />
@@ -69,7 +71,6 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 
  
-
 
 
 
