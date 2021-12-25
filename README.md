@@ -59,6 +59,10 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 2. [Law of large numbers](https://www.kaggle.com/bhavinmoriya/law-of-large-numbers)
 3. [Central Limit Theorem](https://www.kaggle.com/bhavinmoriya/central-limit-theorem)
 
+## Project 7 : PostGreSQL
+
+The course I exercises could be found at [PostGreSQL](https://github.com/bhavinmoriya/Postgres).
+
 <br />
 <br />
 <br />
