@@ -61,7 +61,7 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 7 : PostGreSQL
 
-The course I exercises could be found at [PostGreSQL](https://github.com/bhavinmoriya/Postgres).
+The course exercises could be found at [PostGreSQL](https://github.com/bhavinmoriya/Postgres).
 
 <br />
 <br />
