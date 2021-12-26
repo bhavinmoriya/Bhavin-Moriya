@@ -19,17 +19,18 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 2 : Recurrent Neural Networks and Time Series
 
-1. [Intro to Recurrent Neural Networks LSTM | GRU](https://www.kaggle.com/bhavinmoriya/intro-to-recurrent-neural-networks-lstm-gru)
-2. [Simple moving averages to buy as sell stocks](https://www.kaggle.com/bhavinmoriya/simple-moving-averages-to-buy-as-sell-stocks/edit)
-3. [Fake News classifier using LSTM](https://www.kaggle.com/bhavinmoriya/fake-news-classifier-using-lstm)
-4. [Conv1d, GRU, LSTM to forecast Time Series](https://www.kaggle.com/bhavinmoriya/neural-nets-for-prediction-of-the-google-stock)
-5. [FBProphet to predict Air Passengers](https://www.kaggle.com/bhavinmoriya/playing-with-fb-prophet-great-prediction)
-6. [FBProphet to forecase WIKIPedia pageviews and MSFT Stocks](https://www.kaggle.com/bhavinmoriya/facebook-prophet-wikipedia-msft-forecast)
-7. [AirPassenger forecast using AutoARIMA](https://www.kaggle.com/bhavinmoriya/airpassenger-autoarima-almost-accurate-preds)
-8. [Tuning FBProphet to predict TESLA stock](https://www.kaggle.com/bhavinmoriya/prophet-for-tesla-stock-prediction?scriptVersionId=82301626)
-9. [Apple stocks analysis using ARIMA](https://www.kaggle.com/bhavinmoriya/apple-stocks-analysis-using-arima)
-10. [Google Stocks Auto ARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima)
-11. [Introduction to AutoARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima#Stationarity)
+1. HI
+2. [Intro to Recurrent Neural Networks LSTM | GRU](https://www.kaggle.com/bhavinmoriya/intro-to-recurrent-neural-networks-lstm-gru)
+3. [Simple moving averages to buy as sell stocks](https://www.kaggle.com/bhavinmoriya/simple-moving-averages-to-buy-as-sell-stocks/edit)
+4. [Fake News classifier using LSTM](https://www.kaggle.com/bhavinmoriya/fake-news-classifier-using-lstm)
+5. [Conv1d, GRU, LSTM to forecast Time Series](https://www.kaggle.com/bhavinmoriya/neural-nets-for-prediction-of-the-google-stock)
+6. [FBProphet to predict Air Passengers](https://www.kaggle.com/bhavinmoriya/playing-with-fb-prophet-great-prediction)
+7. [FBProphet to forecase WIKIPedia pageviews and MSFT Stocks](https://www.kaggle.com/bhavinmoriya/facebook-prophet-wikipedia-msft-forecast)
+8. [AirPassenger forecast using AutoARIMA](https://www.kaggle.com/bhavinmoriya/airpassenger-autoarima-almost-accurate-preds)
+9. [Tuning FBProphet to predict TESLA stock](https://www.kaggle.com/bhavinmoriya/prophet-for-tesla-stock-prediction?scriptVersionId=82301626)
+10. [Apple stocks analysis using ARIMA](https://www.kaggle.com/bhavinmoriya/apple-stocks-analysis-using-arima)
+11. [Google Stocks Auto ARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima)
+12. [Introduction to AutoARIMA](https://www.kaggle.com/bhavinmoriya/google-stocks-auto-arima#Stationarity)
    - ACF, PACF plots 
    - Trend order
    - Seasonal order
