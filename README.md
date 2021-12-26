@@ -19,7 +19,7 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 2 : Recurrent Neural Networks and Time Series
 
-1. [Intro to Recurrent Neural Networks LSTM | GRU](https://www.kaggle.com/bhavinmoriya/intro-to-recurrent-neural-networks-lstm-gru)
+1. [Intro to Recurrent Neural Networks LSTM and GRU](https://www.kaggle.com/bhavinmoriya/intro-to-recurrent-neural-networks-lstm-gru)
 2. [Beginners Guide to Text Generation using LSTMs](https://www.kaggle.com/bhavinmoriya/beginners-guide-to-text-generation-using-lstms)
 3. [Simple moving averages to buy as sell stocks](https://www.kaggle.com/bhavinmoriya/simple-moving-averages-to-buy-as-sell-stocks/edit)
 4. [Fake News classifier using LSTM](https://www.kaggle.com/bhavinmoriya/fake-news-classifier-using-lstm)
