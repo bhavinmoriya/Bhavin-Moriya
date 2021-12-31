@@ -62,7 +62,12 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 2. [Law of large numbers](https://www.kaggle.com/bhavinmoriya/law-of-large-numbers)
 3. [Central Limit Theorem](https://www.kaggle.com/bhavinmoriya/central-limit-theorem)
 
-## Project 7 : PostGreSQL
+## Project 7 : Recommender System
+
+1. [Collaborative Filtering to recommend books](https://www.kaggle.com/bhavinmoriya/book-recommender-system-collaborative-filtering)
+2. [Movie recommendation](https://www.kaggle.com/bhavinmoriya/getting-started-with-a-movie-recommendation-system)
+
+## Project 8 : PostGreSQL
 
 The course exercises could be found at [PostGreSQL](https://github.com/bhavinmoriya/Postgres).
 
