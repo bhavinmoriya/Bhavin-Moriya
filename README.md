@@ -39,8 +39,9 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 3 : Natural Language Processing
 
-1. [IMDb Review - Sentiment Analysis with about 86% accuracy](https://www.kaggle.com/bhavinmoriya/imdb-review-sentiment-analysis-using-conv1d)
-2. [Email Spam Detection](https://www.kaggle.com/bhavinmoriya/email-spam-detection#Back-to-out-problem)
+1. [Reddit comments sentiments analysis](https://www.kaggle.com/bhavinmoriya/sentiment-analysis-using-textblob-and-embedding?scriptVersionId=85101317)
+2. [IMDb Review - Sentiment Analysis with about 86% accuracy](https://www.kaggle.com/bhavinmoriya/imdb-review-sentiment-analysis-using-conv1d)
+3. [Email Spam Detection](https://www.kaggle.com/bhavinmoriya/email-spam-detection#Back-to-out-problem)
 
 ## Project 4 : Classification and Regression
 
