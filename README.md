@@ -45,14 +45,15 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 4 : Classification and Regression
 
-1. [Comparing Gradient Boosting Algs on Chess data](https://www.kaggle.com/bhavinmoriya/comparing-gradient-boosting-algs-on-chess-data)
-2. [Wisconsin Breast cancer diagnosis using LGBM](https://www.kaggle.com/bhavinmoriya/wisconsin-breast-cancer-diagnosis-using-lgbm)
-3. [Regression using Neural Nets and RF, LR etc.](https://www.kaggle.com/bhavinmoriya/regression-using-neural-nets-and-rf-lr-etc)
-4. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
-5. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
-6. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
+1. [AutoML using H20 for beginners](https://www.kaggle.com/bhavinmoriya/automl-using-h20-for-beginners)
+2. [Comparing Gradient Boosting Algs on Chess data](https://www.kaggle.com/bhavinmoriya/comparing-gradient-boosting-algs-on-chess-data)
+3. [Wisconsin Breast cancer diagnosis using LGBM](https://www.kaggle.com/bhavinmoriya/wisconsin-breast-cancer-diagnosis-using-lgbm)
+4. [Regression using Neural Nets and RF, LR etc.](https://www.kaggle.com/bhavinmoriya/regression-using-neural-nets-and-rf-lr-etc)
+5. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
+6. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
+7. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
    - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
-7. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
+8. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
 ## Project 5 : Web Scraping
 
