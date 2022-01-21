@@ -1,6 +1,8 @@
 # My Portfolio
 
-I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excited about learning Data Science. I believe that data tells us more than just numbers, it helps us understand our users and their desires and a lot more. I shall be sharing some of my projects here.
+I am Assistant Professor at The Federal University of Vicosa. I have been teaching Mathematics since Nov - 2015 at the same university. I have been learning Data Science and ML for the last two year. I have done quite a few projects, as you can see in My Portfolio and Kaggle. I am very excited to apply my knowledge in industry and prove my knowledge useful. I possess independent and goal-oriented way of working, quick perception and ability to work in a team or solo. I am looking for a career with an innovative and dynamic environment. I am a team player with excellent quantitative abilities. I like learning new things, and I learn quickly. I have the ability to explain complicated issues to a wide variety of audiences.
+
+ I shall be sharing some of my projects here.
 
 # Project 0 : Basics
 1. [Introduction to PySpark](https://www.kaggle.com/bhavinmoriya/introduction-to-pyspark)
@@ -61,9 +63,10 @@ I am Bhavin. I teach Mathematics at The University of Vicosa. I am pretty excite
 
 ## Project 6 : Statistics
 
-1. [A/B Testing](https://www.kaggle.com/bhavinmoriya/ab-testing-again)
-2. [Law of large numbers](https://www.kaggle.com/bhavinmoriya/law-of-large-numbers)
-3. [Central Limit Theorem](https://www.kaggle.com/bhavinmoriya/central-limit-theorem)
+1. [Bayesian Statistics - The fun way by Will Kurt](https://www.kaggle.com/bhavinmoriya/bayesian-statistics-the-fun-way-by-will-kurt)
+2. [A/B Testing](https://www.kaggle.com/bhavinmoriya/ab-testing-again)
+3. [Law of large numbers](https://www.kaggle.com/bhavinmoriya/law-of-large-numbers)
+4. [Central Limit Theorem](https://www.kaggle.com/bhavinmoriya/central-limit-theorem)
 
 ## Project 7 : Recommender System
 
