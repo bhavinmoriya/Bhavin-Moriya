@@ -1,6 +1,6 @@
 # My Portfolio
 
-I am Assistant Professor at The Federal University of Vicosa. I have been teaching Mathematics since Nov - 2015 at the same university. I have been learning Data Science and ML for the last two year. I have done quite a few projects, as you can see in My Portfolio and Kaggle. I am very excited to apply my knowledge in industry and prove my knowledge useful. I possess independent and goal-oriented way of working, quick perception and ability to work in a team or solo. I am looking for a career with an innovative and dynamic environment. I am a team player with excellent quantitative abilities. I like learning new things, and I learn quickly. I have the ability to explain complicated issues to a wide variety of audiences.
+I am Assistant Professor at The Federal University of Vicosa. I have been teaching Mathematics since Nov - 2015 at the same university. I have been learning Data Science and ML for the last two year. I have done quite a few projects, as you can see in My Portfolio and [Kaggle](https://www.kaggle.com/bhavinmoriya). I am very excited to apply my knowledge in industry and prove my knowledge useful. I possess independent and goal-oriented way of working, quick perception and ability to work in a team or solo. I am looking for a career with an innovative and dynamic environment. I am a team player with excellent quantitative abilities. I like learning new things, and I learn quickly. I have the ability to explain complicated issues to a wide variety of audiences.
 
  I shall be sharing some of my projects here.
 
