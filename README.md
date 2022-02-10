@@ -48,14 +48,15 @@ I am Assistant Professor at The Federal University of Vicosa. I have been teachi
 ## Project 4 : Classification and Regression
 
 1. [AutoML using H20 for beginners](https://www.kaggle.com/bhavinmoriya/automl-using-h20-for-beginners)
-2. [Comparing Gradient Boosting Algs on Chess data](https://www.kaggle.com/bhavinmoriya/comparing-gradient-boosting-algs-on-chess-data)
-3. [Wisconsin Breast cancer diagnosis using LGBM](https://www.kaggle.com/bhavinmoriya/wisconsin-breast-cancer-diagnosis-using-lgbm)
-4. [Regression using Neural Nets and RF, LR etc.](https://www.kaggle.com/bhavinmoriya/regression-using-neural-nets-and-rf-lr-etc)
-5. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
-6. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
-7. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
+2. [Credit Card Fraud Detection using Boosting and NN](https://www.kaggle.com/bhavinmoriya/credit-card-fraud-detection-boosting-and-dnn)
+3. [Comparing Gradient Boosting Algs on Chess data](https://www.kaggle.com/bhavinmoriya/comparing-gradient-boosting-algs-on-chess-data)
+4. [Wisconsin Breast cancer diagnosis using LGBM](https://www.kaggle.com/bhavinmoriya/wisconsin-breast-cancer-diagnosis-using-lgbm)
+5. [Regression using Neural Nets and RF, LR etc.](https://www.kaggle.com/bhavinmoriya/regression-using-neural-nets-and-rf-lr-etc)
+6. [KNN with CuML(RAPIDS)](https://www.kaggle.com/bhavinmoriya/knn-with-cuml-gpu-could-be-heaven?scriptVersionId=82137414)
+7. [Fashion MNIST classification with CNN](https://www.kaggle.com/bhavinmoriya/fashion-mnist-with-keras-88-accuracy)
+8. [MNIST Digit classification using PCA and Gradient Boosting Decision Tree](https://www.kaggle.com/bhavinmoriya/mnist-with-pca-and-gbdt)
    - The Digit image has 784 features. Using PCA we reduce the dimension to about 154, which is really drastic. However, we get about 93% accuracy.
-8. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
+9. [MNIST Digit Classification using Random Forest, KNN, SGD](https://www.kaggle.com/bhavinmoriya/mnist-digit-classification-using-sgd-knn-rf?scriptVersionId=82139615)
 
 ## Project 5 : Web Scraping
 
