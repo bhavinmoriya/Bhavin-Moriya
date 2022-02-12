@@ -10,11 +10,13 @@ I am Assistant Professor at The Federal University of Vicosa. I have been teachi
 # Project 1 : Introduction to KERAS and Computer Vision
 
 1. [Basics of Keras](https://www.kaggle.com/bhavinmoriya/playing-with-keras)
-2. [Dogs and Cats classification](https://www.kaggle.com/bhavinmoriya/dogs-and-cats-classification-by-cnn-and-vgg16)
-3. [Data Augmentation](https://www.kaggle.com/bhavinmoriya/dataaugmentation-with-keras)
-4. [MNIST Digit Recognizer using Keras Functional API](https://www.kaggle.com/bhavinmoriya/mnist-digit-recognizer-using-functional-api)
-5. [German Traffic Sign Recognition using Tensorflow](https://www.kaggle.com/bhavinmoriya/intro-to-tensorflow-german-traffic-sign-recog)
-6. Transfer learning
+2. [Autoencoder - MNIST digit encoding decoding](https://www.kaggle.com/bhavinmoriya/autoencoder-mnist-digit-encoding-decoding)
+3. [Autoencoders with Convolution layers](https://www.kaggle.com/bhavinmoriya/autoencoders-with-convolution-layers)
+4. [Dogs and Cats classification](https://www.kaggle.com/bhavinmoriya/dogs-and-cats-classification-by-cnn-and-vgg16)
+5. [Data Augmentation](https://www.kaggle.com/bhavinmoriya/dataaugmentation-with-keras)
+6. [MNIST Digit Recognizer using Keras Functional API](https://www.kaggle.com/bhavinmoriya/mnist-digit-recognizer-using-functional-api)
+7. [German Traffic Sign Recognition using Tensorflow](https://www.kaggle.com/bhavinmoriya/intro-to-tensorflow-german-traffic-sign-recog)
+8. Transfer learning
    - [MobileNet - Predict images outside of training so well](https://www.kaggle.com/bhavinmoriya/mobilenet-small-but-real-good-too)
    - [MobileNet - A small model could do wonders](https://www.kaggle.com/bhavinmoriya/mobilenet-finetune-to-custom-datasets-99-acc)
    - [VGG 16 to improve DogsVsCats classification](https://www.kaggle.com/bhavinmoriya/dogs-and-cats-classification-by-cnn-and-vgg16)
