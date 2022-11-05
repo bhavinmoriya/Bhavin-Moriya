@@ -80,6 +80,11 @@ I am Assistant Professor at The Federal University of Vicosa. I have been teachi
 
 The course exercises could be found at [PostGreSQL](https://github.com/bhavinmoriya/Postgres).
 
+## Project 9 : Finance Analysis
+
+1. [Markowitz Portfolio Analysis](https://www.kaggle.com/code/bhavinmoriya/markowitz-portfolio-optimization)
+2. [Stock Market Analysis Project](https://www.kaggle.com/code/bhavinmoriya/stock-market-analysis-project)
+
 <br />
 <br />
 <br />
