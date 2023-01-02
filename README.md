@@ -84,7 +84,7 @@ The course exercises could be found at [PostGreSQL](https://github.com/bhavinmor
 
 1. [Markowitz Portfolio Analysis](https://www.kaggle.com/code/bhavinmoriya/markowitz-portfolio-optimization)
 2. [Stock Market Analysis Project](https://www.kaggle.com/code/bhavinmoriya/stock-market-analysis-project)
-
+3. [More projects](https://github.com/bhavinmoriya/Python-for-Financial-Analysis-and-Algorithmic-Trading)
 <br />
 <br />
 <br />
